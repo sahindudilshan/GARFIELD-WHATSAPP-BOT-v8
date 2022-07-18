@@ -35,7 +35,7 @@ global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
 global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now) 
 global.myweb = 'https://www.facebook.com/garfieldbots/' // 👈 Enter your Social media link to follow now button
 global.packname = '〲ꜱʜᴀɴ⃜│⦁⃝〽️⃯⃖❤️ᷤ'  // 👈 You Can change this your choice 
-global.author = '〲ꜱʜᴀɴ⃜│⦁⃝〽️⃯⃖❤️ᷤ ✭DEVELOPMENT' // 👈 You Can change this your choice 
+global.author = '〲ꜱʜᴀɴ⃜│⦁⃝〽️⃯⃖❤️ᷤ  DEVELOPMENT' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
